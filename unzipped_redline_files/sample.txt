@@ -1,0 +1,64 @@
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET
+Table 'TestTable1' 6-max Seat #3 is the button
+Seat 1: Hero ($100 in chips)
+Seat 2: Villain1 ($100 in chips)
+Seat 3: Villain2 ($100 in chips)
+Seat 4: Villain3 ($100 in chips)
+Seat 5: Villain4 ($100 in chips)
+Seat 6: Villain5 ($100 in chips)
+Hero: posts small blind $0.50
+Villain1: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kh]
+Hero: raises to $3.00
+Villain1: calls $2.00
+*** FLOP *** [Kd 7s 2h]
+Hero: bets $4.50
+Villain1: calls $4.50
+*** TURN *** [Kd 7s 2h] [9c]
+Hero: bets $10.00
+Villain1: folds
+Uncalled bet ($10.00) returned to Hero
+Hero collected $15.00 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.50
+Board [Kd 7s 2h 9c]
+Seat 1: Hero (small blind) collected ($15.00)
+Seat 2: Villain1 (big blind) folded on the Turn
+
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET
+Table 'TestTable1' 6-max Seat #4 is the button
+Seat 1: Hero ($120 in chips)
+Seat 2: Villain1 ($100 in chips)
+Seat 3: Villain2 ($100 in chips)
+Seat 4: Villain3 ($100 in chips)
+Seat 5: Villain4 ($100 in chips)
+Seat 6: Villain5 ($100 in chips)
+Villain3: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc Qs]
+Villain4: folds
+Villain5: raises to $2.50
+Villain3: folds
+Hero: raises to $8.00
+Villain5: calls $5.50
+*** FLOP *** [Ad 7h 3c]
+Hero: checks
+Villain5: bets $8.00
+Hero: calls $8.00
+*** TURN *** [Ad 7h 3c] [Qd]
+Hero: bets $15.00
+Villain5: calls $15.00
+*** RIVER *** [Ad 7h 3c Qd] [9h]
+Hero: bets $25.00
+Villain5: calls $25.00
+*** SHOW DOWN ***
+Hero: shows [Qc Qs] (three of a kind, Queens)
+Villain5: shows [Ah Ks] (two pair, Aces and Kings)
+Hero collected $103.00 from pot
+*** SUMMARY ***
+Total pot $106.00 | Rake $3.00
+Board [Ad 7h 3c Qd 9h]
+Seat 1: Hero (big blind) showed [Qc Qs] and won ($103.00) with three of a kind, Queens
+Seat 5: Villain5 showed [Ah Ks] and lost with two pair, Aces and Kings

@@ -1,0 +1,1 @@
+go run main.go -input "./unzipped_redline_files" -outprefix "./out/gg" -hero "Hero"

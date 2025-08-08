@@ -1,0 +1,6 @@
+cd C:\Users\user\Documents\GitHub\poker-normalizer
+go mod init poker-normalizer
+
+go mod tidy
+
+module poker-normalizer

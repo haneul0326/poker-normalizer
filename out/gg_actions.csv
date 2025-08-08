@@ -1,0 +1,20 @@
+handId,idx,street,actor,type,sizeBB,potBB,toCallBB,spr
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,1,preflop,Hero,raise,3.0000,0.0000,0.0000,0.0000
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,2,preflop,Villain1,call,2.0000,0.0000,0.0000,0.0000
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,3,flop,Hero,bet,4.5000,0.0000,0.0000,0.0000
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,4,flop,Villain1,call,4.5000,0.0000,0.0000,0.0000
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,5,turn,Hero,bet,10.0000,0.0000,0.0000,0.0000
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,6,turn,Villain1,fold,0.0000,0.0000,0.0000,0.0000
+Hand #1234567890: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:15:00 ET,7,turn,Seat 2: Villain1 (big blind),fold,0.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,1,preflop,Villain4,fold,0.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,2,preflop,Villain5,raise,2.5000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,3,preflop,Villain3,fold,0.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,4,preflop,Hero,raise,8.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,5,preflop,Villain5,call,5.5000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,6,flop,Hero,check,0.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,7,flop,Villain5,bet,8.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,8,flop,Hero,call,8.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,9,turn,Hero,bet,15.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,10,turn,Villain5,call,15.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,11,river,Hero,bet,25.0000,0.0000,0.0000,0.0000
+Hand #1234567891: Hold'em No Limit ($0.50/$1.00 USD) - 2025/08/08 10:20:00 ET,12,river,Villain5,call,25.0000,0.0000,0.0000,0.0000
